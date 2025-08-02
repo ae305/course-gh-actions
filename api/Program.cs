@@ -20,7 +20,7 @@ var newSummaries = new[]
 
 var summaries = new[]
 {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+    "Freezing", "Bracing", "Chilly", "Hot", "Sweltering", "Scorching"
 };
 
 var summaries = new[]
