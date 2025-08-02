@@ -3,7 +3,7 @@ name: upper-image-andres
 on:
   push:
     paths:
-      - ".github/workflows/upper-image.yml"
+      - ".github/workflows/upper-image-andres.yml"
       - "upper/**"
   workflow_dispatch: # manual
 
